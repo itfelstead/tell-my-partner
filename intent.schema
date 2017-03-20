@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "TranslateAgreeIntent"
+    },
+    {
+      "intent": "TranslateDisagreeIntent"
+    },
+    {
+      "intent": "TranslateKitchenIntent"
+    },
+    {
+      "intent": "TranslateUninterestedIntent"
+    },
+    {
+      "intent": "TranslateBeQuietIntent"
+    },
+    {
+      "intent": "TranslateSmellIntent"
+    },
+    {
+      "intent": "TranslateLooksIntent"
+    },
+    {
+      "intent": "TranslateSportIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
