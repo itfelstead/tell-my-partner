@@ -1,0 +1,202 @@
+TranslateAgreeIntent that i agree
+TranslateAgreeIntent that i said i agreed
+TranslateAgreeIntent yes
+TranslateAgreeIntent that i said yes
+TranslateAgreeIntent that she's right
+TranslateAgreeIntent that he's right
+TranslateAgreeIntent whatever
+TranslateAgreeIntent yes dear
+TranslateAgreeIntent very well dear
+TranslateDisagreeIntent that i disagree
+TranslateDisagreeIntent that i said i disagreed
+TranslateDisagreeIntent no
+TranslateDisagreeIntent that i said no
+TranslateDisagreeIntent she's wrong
+TranslateDisagreeIntent he's wrong
+TranslateDisagreeIntent that she's wrong
+TranslateDisagreeIntent that he's wrong
+TranslateDisagreeIntent she's still wrong
+TranslateDisagreeIntent he's still wrong
+TranslateDisagreeIntent that she's still wrong
+TranslateDisagreeIntent that he's still wrong
+TranslateDisagreeIntent got to be kidding
+TranslateDisagreeIntent she is talking rubbish
+TranslateDisagreeIntent he is talking rubbish
+TranslateDisagreeIntent she is full of rubbish
+TranslateDisagreeIntent he is full of rubbish
+TranslateKitchenIntent that i want a drink
+TranslateKitchenIntent for a drink
+TranslateKitchenIntent that i want some drink
+TranslateKitchenIntent for some drink
+TranslateKitchenIntent that i'm thirsty
+TranslateKitchenIntent that i'm hungary
+TranslateKitchenIntent that i want breakfast
+TranslateKitchenIntent for breakfast
+TranslateKitchenIntent for food
+TranslateKitchenIntent for drink
+TranslateKitchenIntent that i want lunch
+TranslateKitchenIntent for lunch
+TranslateKitchenIntent that i want dinner
+TranslateKitchenIntent for dinner
+TranslateKitchenIntent that i want some food
+TranslateKitchenIntent for food
+TranslateKitchenIntent i want a beer
+TranslateKitchenIntent for a beer
+TranslateKitchenIntent to get me a cup of tea
+TranslateKitchenIntent for a cup of tea
+TranslateKitchenIntent that i want a cup of tea
+TranslateKitchenIntent to get me a mug of tea
+TranslateKitchenIntent for a mug of tea
+TranslateKitchenIntent to get me a cup of coffee
+TranslateKitchenIntent for a cup of coffee
+TranslateKitchenIntent that i want a cup of coffee
+TranslateKitchenIntent to get me a mug of coffee
+TranslateKitchenIntent for a mug of coffee
+TranslateKitchenIntent to get me a beer
+TranslateKitchenIntent for a beer
+TranslateKitchenIntent that i want a beer
+TranslateKitchenIntent to get me a pint of beer
+TranslateKitchenIntent for a pint of beer
+TranslateKitchenIntent to get me a gin
+TranslateKitchenIntent for a gin
+TranslateKitchenIntent that i want a gin
+TranslateKitchenIntent to get me a whiskey
+TranslateKitchenIntent for a whiskey
+TranslateKitchenIntent that i want a whiskey
+TranslateKitchenIntent that he should be in the kitchen
+TranslateKitchenIntent that she should be in the kitchen
+TranslateKitchenIntent that i want a cuppa
+TranslateKitchenIntent that i want a brew
+TranslateKitchenIntent where's my tea
+TranslateKitchenIntent to get the kettle on
+TranslateKitchenIntent has the kettle broken
+TranslateKitchenIntent if the kettle has broken
+TranslateKitchenIntent if the kettle is broken
+TranslateKitchenIntent feed me
+TranslateKitchenIntent to feed me
+TranslateKitchenIntent i am starving
+TranslateKitchenIntent that i am starving
+TranslateKitchenIntent i am parched
+TranslateKitchenIntent i am dying of hunger
+TranslateKitchenIntent that i am dying of hunger
+TranslateUninterestedIntent that i don't care
+TranslateUninterestedIntent that i couldn't care less
+TranslateUninterestedIntent that they both look nice to me
+TranslateUninterestedIntent that i'm not really bothered
+TranslateUninterestedIntent so what
+TranslateUninterestedIntent can't be arsed
+TranslateUninterestedIntent whatever
+TranslateUninterestedIntent yawn
+TranslateUninterestedIntent boring
+TranslateUninterestedIntent father in law
+TranslateUninterestedIntent mother in law
+TranslateBeQuietIntent to shut it
+TranslateBeQuietIntent to go away
+TranslateBeQuietIntent to bugger off
+TranslateBeQuietIntent to sod off
+TranslateBeQuietIntent to shut up
+TranslateBeQuietIntent put a sock in it
+TranslateBeQuietIntent please be quiet
+TranslateBeQuietIntent be quiet
+TranslateBeQuietIntent is annoying
+TranslateBeQuietIntent is driving me nuts
+TranslateBeQuietIntent is driving me crazy
+TranslateBeQuietIntent is irritating me
+TranslateBeQuietIntent is winding me up
+TranslateBeQuietIntent pissing me off
+TranslateBeQuietIntent to get lost
+TranslateBeQuietIntent go play on the motorway
+TranslateBeQuietIntent is a fool
+TranslateBeQuietIntent is a twat
+TranslateBeQuietIntent is a bellend
+TranslateBeQuietIntent is a bitch
+TranslateBeQuietIntent is dumped
+TranslateBeQuietIntent i want to split up
+TranslateBeQuietIntent it's not you it's me
+TranslateBeQuietIntent it's not me it's you
+TranslateBeQuietIntent i hate her
+TranslateBeQuietIntent i hate him
+TranslateBeQuietIntent i despise her
+TranslateBeQuietIntent i despise him
+TranslateBeQuietIntent i don't like him
+TranslateBeQuietIntent i don't like her
+TranslateSmellIntent that she smells fine
+TranslateSmellIntent that he smells fine
+TranslateSmellIntent that she smells ok
+TranslateSmellIntent that he smells ok
+TranslateSmellIntent that she smells nice
+TranslateSmellIntent that he smells nice
+TranslateSmellIntent smell
+TranslateSmellIntent that the perfume smells nice
+TranslateSmellIntent that she stinks
+TranslateSmellIntent that he stinks
+TranslateSmellIntent that she reeks
+TranslateSmellIntent that he reeks
+TranslateSmellIntent odour
+TranslateSmellIntent whiff
+TranslateSmellIntent stench
+TranslateSmellIntent pong
+TranslateLooksIntent her dress looks alright
+TranslateLooksIntent her clothes look alright
+TranslateLooksIntent his clothes look alright
+TranslateLooksIntent her dress looks fine
+TranslateLooksIntent her clothes look fine
+TranslateLooksIntent his clothes look fine
+TranslateLooksIntent she looks alright
+TranslateLooksIntent he looks alright
+TranslateLooksIntent she looks fine
+TranslateLooksIntent she looks lovely
+TranslateLooksIntent he looks fine
+TranslateLooksIntent he looks smart
+TranslateLooksIntent she looks ok
+TranslateLooksIntent he looks ok
+TranslateLooksIntent that i don't like it
+TranslateLooksIntent i don't like it
+TranslateLooksIntent that it looks awful
+TranslateLooksIntent it looks awful
+TranslateLooksIntent her bum looks too big in that
+TranslateLooksIntent her bum looks big in that
+TranslateLooksIntent looks amazing
+TranslateLooksIntent suck
+TranslateLooksIntent looks a bit rough
+TranslateLooksIntent looks a bit of a hound
+TranslateLooksIntent looks a bit fat
+TranslateLooksIntent looks chubby
+TranslateLooksIntent time for bed
+TranslateLooksIntent go upstairs
+TranslateLooksIntent i fancy a shag
+TranslateLooksIntent for a shag
+TranslateLooksIntent for a cuddle
+TranslateLooksIntent i want a cuddle
+TranslateLooksIntent that i love him
+TranslateLooksIntent that i love her
+TranslateLooksIntent if she loves me
+TranslateLooksIntent if he loves me
+TranslateLooksIntent what he has done to his hair
+TranslateLooksIntent what she has done to her hair
+TranslateLooksIntent hair looks weird
+TranslateLooksIntent hair is alright
+TranslateLooksIntent hair is fine
+TranslateLooksIntent hair is ok
+TranslateLooksIntent hair is strange
+TranslateLooksIntent hair is odd
+TranslateLooksIntent i have no idea what looks different about her
+TranslateLooksIntent i have no idea what looks different about him
+TranslateSportIntent i don't care who wins
+TranslateSportIntent i don't care who won
+TranslateSportIntent i don't care who lost the game
+TranslateSportIntent i don't care who lost the match
+TranslateSportIntent i don't care who is losing the game
+TranslateSportIntent i don't care who is losing the match
+TranslateSportIntent i don't care who wins the match
+TranslateSportIntent i don't care who is winning the match
+TranslateSportIntent i don't care who is winning the race
+TranslateSportIntent i don't care who is winning the game
+TranslateSportIntent i don't care who won the match
+TranslateSportIntent i don't care who wins the football match
+TranslateSportIntent i don't care who wins the football
+TranslateSportIntent i don't care who wins the footy
+TranslateSportIntent i don't care about football
+TranslateSportIntent i don't like football
+TranslateSportIntent i hate football
+TranslateSportIntent i hate sport
